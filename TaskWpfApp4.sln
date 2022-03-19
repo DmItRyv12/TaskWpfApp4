@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWpfApp4", "TaskWpfApp4\TaskWpfApp4.csproj", "{79B84007-A3DD-4184-87DF-F4BFB3D12DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B84007-A3DD-4184-87DF-F4BFB3D12DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B84007-A3DD-4184-87DF-F4BFB3D12DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B84007-A3DD-4184-87DF-F4BFB3D12DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B84007-A3DD-4184-87DF-F4BFB3D12DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1733378E-1BDD-4130-A814-77E1328380B8}
+	EndGlobalSection
+EndGlobal
